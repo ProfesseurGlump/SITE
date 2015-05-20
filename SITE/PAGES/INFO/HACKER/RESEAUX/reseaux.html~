@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Page de l'informatique des réseaux</title>
+    <meta charset="utf-8"/>
+  </head>
+  <body>
+    <h1>Les thèmes que vous trouverez sur cette page.</h1>
+    <!--Ceci est un commentaire-->
+    <p><strong>Mise en garde</strong> : je n'ai aucune prétention
+    concernant le hacking. Mon but est uniquement pédagogique et
+    ludique. Je ne cherche pas à pirater les ni à permettre à des gens
+    de devenir des pirates. Je ne prétends pas être un grand
+    technicien, je suis un grand débutant. Par contre je suis un
+    débutant qui aime partager ses découvertes. A vous de juger si les
+    documents, liens et autres informations que je délivre ici sont
+    pertinentes, intéressantes, utiles ou pas.</p>
+    <p>Cette mise en garde étant faite, j'espère pouvoir accueillir
+      des visiteurs bienveillants.</p>
+    <p>Voici un regroupement en 9 catégories qu'un hacker doit
+      maîtriser s'il veut en être un véritable (emprunté au site
+      hackademics.fr)</p>
+    <ol>
+      <li>Le modèle OSI et ses sept couches (ce modèle définit
+      comment l'information est créée, transportée puis livrée entre
+      deux machines)</li>
+      <li>Architectures fonctionnelles (Internet, Extranet, Intranet)</li>
+      <li>Structures (LAN, WLAN, PAN, SAN)</li>
+      <li>Protocoles dynamiques (VoIP, P2P)</li>
+      <li>Relations (Client-Serveur, architecture trois-tiers)</li>
+      <li>Topologie (étoile, anneau, arbre, bus)</li>
+      <li>Transmission (WI-FI, bluetooth, ADSL, fibre optique)</li>
+      <li>Domaines logiques (VLAN)</li>
+      <li>Equipements (switch, commutateur (hub), modem</li>
+    </ol>
+    
+    
+  </body>
+    
+</html>

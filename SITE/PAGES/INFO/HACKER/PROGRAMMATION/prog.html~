@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Page de la programmation informatique</title>
+    <meta charset="utf-8"/>
+  </head>
+  <body>
+    <h1>Les thèmes que vous trouverez sur cette page.</h1>
+    <!--Ceci est un commentaire-->
+    <p><strong>Mise en garde</strong> : je n'ai aucune prétention
+    concernant le hacking. Mon but est uniquement pédagogique et
+    ludique. Je ne cherche pas à pirater les ni à permettre à des gens
+    de devenir des pirates. Je ne prétends pas être un grand
+    technicien, je suis un grand débutant. Par contre je suis un
+    débutant qui aime partager ses découvertes. A vous de juger si les
+    documents, liens et autres informations que je délivre ici sont
+    pertinentes, intéressantes, utiles ou pas.</p>
+    <p>Cette mise en garde étant faite, j'espère pouvoir accueillir
+      des visiteurs bienveillants.</p>
+    <p>Voici un regroupement en 6 catégories qu'un hacker doit
+      maîtriser s'il veut en être un véritable (emprunté au site
+      <a href="http://hackademics.fr/showthread.php?2172-S-initier-au-Hacking-Les-conseils-et-les-bases"
+      target="_blank">hackademics.fr</a>)</p>
+    <ol>
+      <li>Les types de langage (impératif, POO, embarqué, logique)</li>
+      <li>La modélisation (singletons, UML, Merise)</li>
+      <li>La compilation (compilateur, assemblage, linkage, appels)</li>
+      <li>Les langages orientés Web (finalité, architecture, HTML/PHP/JS)</li>
+      <li>Les langages orientés Web (finalité, architecture,
+      C/C++/Java(mixte)/VB)</li>
+      <li>Les langages orientés Web (finalité, architecture, Python)</li>
+    </ol>
+    <p>Il peut être également intéressant de consulter
+    ce <a href="http://www.secuser.com/dossiers/devenir_hacker.htm"
+	  target="_blank">site</a> afin d'avoir un autre avis sur le
+      sujet.</p>
+    <p>Pour ma part je ferais la liste suivante des langages
+      informatiques à maîtriser si l'on veut devenir un hacker :</p>
+    <ul>
+      <li>Le langage C et pour l'étudier je recommande ce
+      <a href="https://www.rocq.inria.fr/secret/Anne.Canteaut/"
+      target="_blank">site</a> ou encore
+      <a href="http://www.framabook.org/docs/c20h/C20H_integrale_creative-commons-by-sa.pdf"
+	 target="_blank">celui-ci</a></li>
+      <li>Le langage HTML car c'est celui pour écrire les pages web
+      (du coup on peut inclure également le PHP et le JS (JavaScript))</li>
+      <li>Le langage Java</li>
+      <li>Le langage Lisp car c'est un langage fonctionnel qui a
+      beaucoup servi en intelligence artificielle (et qui sert encore
+      malgré son âge vénérable)</li>
+      
+    
+  </body>
+    
+</html>

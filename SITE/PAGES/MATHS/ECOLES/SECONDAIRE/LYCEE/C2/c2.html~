@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Page des mathématiques du seconde</title>
+    <meta charset="utf-8"/>
+  </head>
+  <body>
+    <h1>Les thèmes que vous trouverez sur cette page.</h1>
+    <!--Ceci est un commentaire-->
+    <h2>Programme officiel</h2>
+    <h3>Introduction</h3>
+    <p>La classe de seconde est une classe de détermination. Le
+      programme de mathématiques y a pour fonction :</p>
+    <ul>
+      <li>de conforter l'acquisition par chaque élève de la culture
+      mathématique nécessaire à la vie en société et à la
+	compréhension du monde;</li>
+      <li>d'assurer et de consolider les bases de mathématiques
+	nécessaires aux poursuites d'étude du lycée;</li>
+      <li>d'aider l'élève à construire son parcours de formation.</li>
+    </ul>
+    <p>Pour chaque partie du programme, <strong><em>les capacités
+    attendues sont clairement identifiées</em></strong> et l'accent
+    est mis systématiquement sur les types de problèmes que les élèves
+    doivent savoir résoudre. L'acquisition de techniques est
+    indispensable, mais doit être au service de la pratique du
+    raisonnement qui est la base de l'activité mathématique des
+    élèves. Il faut, en effet, que chaque élève, quels que soient ses
+    projets, puisse faire l'expérience personnelle de l'efficacité des
+    concepts mathématiques et de la simplification que permet la
+      maîtrise de l'abstraction.</p>
+    <h3>Objectif général</h3>
+    <p>L'objectif de ce programme est de former les élèves à la
+    démarche scientifique sous toutes ses formes pour les rendre
+      capables de :</p>
+    <ul>
+      <li>modéliser et s'engager dans une activité de recherche;</li>
+      <li>conduire un raisonnement, une démonstration;</li>
+      <li>pratiquer une activité expérimentale ou algorithmique;</li>
+      <li>faire une analyse critique d'un résultat, d'une
+	démarche;</li>
+      <li>pratiquer une lecture active de l'information (critique,
+      traitement), en privilégiant les changements de registre
+	(graphique, numérique, algébrique, géométrique);</li>
+      <li>utiliser les outils logiciels (ordinateur ou calculatrice)
+	adaptés à la résolution d'un problème;</li>
+      <li>communiquer à l'écrit et à l'oral.</li>
+    </ul>
+    <p>Dans la mesure du possible, les problèmes posés s'inspirent de
+    situations liées à la vie courante ou à d'autres disciplines. Ils
+    doivent pouvoir s'exprimer de façon simple et concise et laisser
+    dans leur résolution une place à l'autonomie et à l'initiative des
+    élèves. Au niveau d'une classe de seconde de détermination, les
+      solutions attendues sont aussi en général simples et courtes.</p>
+    <h3>Raisonnement et langage mathématiques</h3>
+    <p>Le développement de l'argumentation et
+    l'<strong><em>entraînement à la logique</em></strong>font partie
+    intégrante des exigences des classes de lycée. A l'issue de la
+    seconde, l'élève devra avoir acquis une expérience lui permettant
+    de commencer à distinguer les principes de la logique mathématique
+    de ceux de la logique du langage courant et, par exemple, à
+    distinguer implication mathématique et causalité. Les concepts et
+    méthodes relevant de la logique mathématique <strong><em>ne
+    doivent pas faire l'objet de cours spécifiques</em></strong>
+  </body>
+    
+</html>

@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Page des BASES en informatique générale</title>
+    <meta charset="utf-8"/>
+  </head>
+  <body>
+    <h1>Les thèmes que vous trouverez sur cette page.</h1>
+    <!--Ceci est un commentaire-->
+    <p>
+      Vous trouverez ici 6 grandes catégories (très subjectives)
+      concernant ce que j'appelle les bases en informatique.
+    </p>
+    <p>
+      Vous êtes invité à me faire part des sujets qui vous
+      préoccuppent afin d'enrichir cette rubrique.
+    </p>
+    <p>Voici donc les 6 catégories tant attendues :</p>
+    <ol>
+      <li>
+	 <p>L'<a href="http://fr.wikipedia.org/wiki/Internet"
+	       target="_blank">internet</a> et plus spécialement
+	 <a href="INTERNET/web.html">le web et la messagerie
+	   électronique</a>.</p>
+	 <p>On présentera quelques exemples de :
+	   <ul>
+	     <li>
+	       <a href="http://fr.wikipedia.org/wiki/Navigateur_web"
+		  target="_blank">navigateurs web</a>
+	     </li>
+	     <li>
+	       <a href="http://fr.wikipedia.org/wiki/Client_de_messagerie"
+		  target="_blank">clients de messageries électroniques</a>
+	     </li>
+	     <li>
+	       <a href="http://fr.wikipedia.org/wiki/Messagerie_web"
+		  target="_blank">d'hébergeurs de webmail</a>
+	     </li>
+	   </ul>
+	 </p>
+      </li>
+      <li>
+	<p>Les recherches sur le web</p>
+	<p>
+	  On présentera :
+	  <ul>
+	    <li>
+	      <a href="http://fr.wikipedia.org/wiki/DuckDuckGo"
+		   target="_blank">une alternative à Google</a>
+	    </li>
+	    <li>comment demander de l'aide sur les forums</li>
+	  </ul>
+	</p>
+      </li>
+      <li>
+	<p>Navigation dans votre système</p>
+	<p>
+	  On présentera :
+	  <ul>
+	    <li>ce qu'est un système d'exploitation ainsi que des
+	      exemples</li>
+	    <li>l'approche graphique</li>
+	    <li>l'approche en ligne de commande</li>
+	  </ul>
+	</p>
+      </li>
+      <li>
+	<p>Bonnes pratiques sécuritaires</p>
+	<p>
+	  On présentera :
+	  <ul>
+	    <li>comment créer un mot de passe sûr et simple à
+	      retenir</li>
+	    <li>pourquoi il faut être vigilant avec les informations
+	      que l'on diffuse sur le web</li>
+	    <li>une première définition d'un Hacker</li>
+	  </ul>
+	</p>
+      </li>
+      <li>
+	<p>Vocabulaire avancé (un peu de théorie)</p>
+	<p>
+	  On présentera :
+	  <ul>
+	    <li>les langages</li>
+	    <li>les informations</li>
+	    <li>les machines</li>
+	    <li>les algorithmes</li>
+	  </ul>
+	</p>
+      </li>
+      <li>
+	<p>Eléments de HARDWARE (un peu de matériel)</p>
+	<p>
+	  On présentera :
+	  <ul>
+	    <li>la carte mère</li>
+	    <li>le processeurs</li>
+	    <li>le(s) disque(s) dur(s)</li>
+	    <li>la mémoire RAM</li>
+	    <li>les périphériques externes</li>
+	  </ul>
+	</p>
+      </li>
+    </ol>
+    
+  </body>
+    
+</html>

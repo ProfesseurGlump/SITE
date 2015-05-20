@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Page des mathématiques scolaires html</title>
+    <meta charset="utf-8"/>
+  </head>
+  <body>
+    <h1>Les thèmes que vous trouverez sur cette page.</h1>
+    <!--Ceci est un commentaire-->
+    Les mathématiques scolaires du système scolaire français se
+    regroupent en trois grandes catégories :
+    <ol>
+      <li>
+	Les mathématiques de
+	l'école <a href="/PRIMAIRE/primaire.html">primaire</a>.
+      </li>
+      <li>
+	Les mathématiques de
+	l'école <a href="/SECONDAIRE/secondaire.html">secondaire</a>.
+      </li>
+  </body>
+    
+</html>

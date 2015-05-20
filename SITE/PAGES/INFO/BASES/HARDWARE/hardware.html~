@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Page de l'informatique matérielle</title>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <h1>Les thèmes que vous trouverez sur cette page.</h1>
+    <!--Ceci est un commentaire-->
+    <p>Vous trouverez ici des trucs et astuces pour
+      découvrir ce qui se cache sous le capot de vos
+      machine et qui ne demande pas trop de
+      connaissances techniques pour être amélioré à
+      moindre coût.</p>
+    <ul>
+      <li>Vous avez un MacBook Pro et vous le trouvez
+	lent. Pas de panique voici une solution 
+	<a href="http://www.progresser-en-informatique.com/votre-ancien-macbook-pro-na-pas-encore-dit-son-dernier-mot/#"
+	   target="_blank">ici pour les explications</a></li>
+   </ul>
+    
+  </body>
+    
+</html>

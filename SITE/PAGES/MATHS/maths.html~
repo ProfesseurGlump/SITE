@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Page des mathématiques html</title>
+    <meta charset="utf-8"/>
+  </head>
+  <body>
+    <h1>Les thèmes que vous trouverez sur cette page.</h1>
+    <!--Ceci est un commentaire-->
+    <ul>
+      <li>
+	Les mathématiques
+	<dl>
+	  <dt>scolaires</dt>
+          <dd>Celles qui sont enseignées dans le système scolaire
+          français de l'école primaire à l'enseignement supérieur
+            (concours compris)</dd>
+        </dl>
+      </li>
+      <li>
+	Les mathématiques
+	<dl>
+	  <dt>ludiques</dt>
+          <dd>Celles qui ne sont (<emph>malheureusement</emph> pas
+            enseignées dans le système scolaire français (tour de
+            magie, énigmes, jeux, et autres curiosités)</dd>
+	</dl>
+      </li>
+      <li>
+	<dl>
+	  <dt>ACTUALITES</dt>
+          <dd>essentiellement des informations récolletées sur le web
+            ou dans des médias libres tels que mediapart, reflets</dd>
+        </dl>
+      </li>
+    </ul>
+  </body>
+    
+</html>

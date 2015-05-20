@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Page de la cryptologie et la cryptanalyse</title>
+    <meta charset="utf-8"/>
+  </head>
+  <body>
+    <h1>Les thèmes que vous trouverez sur cette page.</h1>
+    <!--Ceci est un commentaire-->
+    <p><strong>Mise en garde</strong> : je n'ai aucune prétention
+    concernant le hacking. Mon but est uniquement pédagogique et
+    ludique. Je ne cherche pas à pirater les ni à permettre à des gens
+    de devenir des pirates. Je ne prétends pas être un grand
+    technicien, je suis un grand débutant. Par contre je suis un
+    débutant qui aime partager ses découvertes. A vous de juger si les
+    documents, liens et autres informations que je délivre ici sont
+    pertinentes, intéressantes, utiles ou pas.</p>
+    <p>Cette mise en garde étant faite, j'espère pouvoir accueillir
+      des visiteurs bienveillants.</p>
+    <p>Voici un regroupement en 6 catégories qu'un hacker doit
+      maîtriser s'il veut en être un véritable (emprunté au site
+      <a href="http://hackademics.fr/showthread.php?2172-S-initier-au-Hacking-Les-conseils-et-les-bases"
+      target="_blank">hackademics.fr</a>)</p>
+    <ol>
+      <li>Chiffrement symétrique et asymétrique (clé publique, clé
+      privée, fonction de hachage, condensat)</li>
+      <li>Protection logicielle (signature numérique)</li>
+      <li>Protection des données (certificats, protocoles de
+      chiffrement (HTTPS, SSH, TSL))</li>
+      <li>Tunneling (VPN)</li>
+      <li>Algorithmique (DES, AES, RSA, BlowFish)</li>
+      <li>Principes (substitution, addition, intercalage...)</li>
+      <li>Transmission (WI-FI, bluetooth, ADSL, fibre optique)</li>
+    </ol>
+    
+    
+  </body>
+    
+</html>
